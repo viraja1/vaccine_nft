@@ -125,5 +125,6 @@ Vaccine NFT (Skale Network, Matic Mumbai Testnet, Rinkeby) - https://vaccine-nft
     if the status is updated. Similarly when the other person will login using their social identifier 
     or ethereum wallet, then they will get to know that they have received the NFT.
 
-    
+ ### Image Credits
+ https://www.cdc.gov/coronavirus/2019-ncov/communication/print-resources.html?Sort=Date%3A%3Adesc&Search=sticker   
    
